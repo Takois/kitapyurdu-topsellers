@@ -1,2 +1,2 @@
 # kitapyurdu-topsellers
-it prints top 100 seller to a text file using scrapy
+it prints top 100 seller at kitapyurdu.com to a text file using scrapy
